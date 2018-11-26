@@ -1,2 +1,4 @@
-def my_collec
+def my_collect 
+end 
+
 
